@@ -1,8 +1,10 @@
-<h1> Microsoft AI Classroom Series</h1>   
+<h1 align= "center"> Microsoft AI Classroom Series</h1>   
 <p align= "center">The digital workplace of the future will need employees skilled on emerging technologies like AI, data science, and augmented reality. To become the creators and innovators of the not-too-distant future, students need to develop their tech skills on these technologies.Launching Microsoft AI Classroom series
 for students, in association with</p><p align = "center"> NASSCOM | futureskills </p><p align = "center">Supported by GitHub</p><p align = "center">Microsoft has joined forces with NASSCOM FutureSkills® to deliver Microsoft’s AI, machine learning and data science expertise to students through easy-to-consume modules including live demos, hands-on workshop and assignments.</p>
 
-![img](https://github.com/AdicherlaVenkataSai/microsoft-ai-classroom-series/blob/master/resources/microsoft.jpeg)
+<!--![img](https://github.com/AdicherlaVenkataSai/microsoft-ai-classroom-series/blob/master/resources/microsoft.jpeg)-->
+
+![hosts](https://user-images.githubusercontent.com/26376075/94186533-70ef5680-fec4-11ea-9282-d9ea031d4e97.gif)
 
 **About the program**
 -  Microsoft AI Classroom series is an initiative by Microsoft in association with NASSCOM FutureSkills® and supported by GitHub to train 1M students over 12 months.
@@ -115,7 +117,7 @@ To access Azure platform and try out services, you need subscription. So Microso
 -  Announcement: GoDo links for Module 1 `http://aka.ms/Module1Reference`, `http://aka.ms/Module1GoDo` , `http://aka.ms/AI900Certification`        
 -  Any questions post session can be asked at `StudentQ@microsoft.com`
 
-**There will be similar sessions from 19-Oct to 24-Oct, you can register**
+**There will be similar sessions from 19-Oct to 24-Oct, you can register!!**
 
 
 
